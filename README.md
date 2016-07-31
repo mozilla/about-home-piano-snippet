@@ -1,4 +1,4 @@
-# MOVED https://github.com/mozilla/snippets/tree/master/pianno-snippet
+# MOVED https://github.com/mozmar/snippets/tree/master/legacy/pianno-snippet
 
 # about:home Piano Snippet
 
